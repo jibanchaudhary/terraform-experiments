@@ -1,0 +1,10 @@
+# Virtual environments
+.terra_venv/
+
+# Environment variables
+.env
+
+# Terraform state files 
+*.tfstate
+*.tfstate.backup
+.terraform/
